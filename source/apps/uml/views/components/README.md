@@ -1,1 +1,1 @@
-# Package 📦 apps uml.views
+# Package 📦 apps.uml.views
