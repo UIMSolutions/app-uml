@@ -1,4 +1,7 @@
 module apps.uml.controllers;
 
-@safe:
-import apps.uml;
+public {
+  import apps.uml.actions;
+  import apps.uml.components;
+  import apps.uml.pages;
+}
