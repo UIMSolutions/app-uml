@@ -13,9 +13,6 @@ public import uim.jsonbase;
 public import uim.entities;
 public import uim.entitybase;
 
-// Library
-public import uim.modeller;
-
 // server-modeller packages
 public import servers.modeller.actions;
 public import servers.modeller.apis;

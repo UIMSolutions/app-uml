@@ -1,4 +1,4 @@
 module apps.uml.views;
 
-@safe:
-import apps.uml;
+public import apps.uml.views.error;
+public import apps.uml.views.index;
