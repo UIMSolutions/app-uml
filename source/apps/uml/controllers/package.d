@@ -1,7 +1,7 @@
 module apps.uml.controllers;
 
 public {
-  import apps.uml.actions;
-  import apps.uml.components;
-  import apps.uml.pages;
+  import apps.uml.controllers.actions;
+  import apps.uml.controllers.components;
+  import apps.uml.controllers.pages;
 }
