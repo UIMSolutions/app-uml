@@ -22,6 +22,6 @@ class DUMLIndexPageController : DAPPPageController {
       UMLIndexView(this));
   }
 }
-mixin(ControllerCalls!("UMLIndexPageController", "DUMLIndexPageController"));
+mixin(ControllerCalls!("UMLIndexPageController"));
 
 

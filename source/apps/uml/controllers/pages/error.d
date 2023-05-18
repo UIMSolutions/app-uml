@@ -13,4 +13,4 @@ class DUMLErrorPageController : DAPPPageController {
       .view(UMLErrorView(this));
   }
 }
-mixin(ControllerCalls!("UMLErrorPageController", "DUMLErrorPageController"));
+mixin(ControllerCalls!("UMLErrorPageController"));
