@@ -1,1 +1,1 @@
-module apps uml.controllers.actions;
+module apps.uml.controllers.actions;
