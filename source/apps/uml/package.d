@@ -29,6 +29,6 @@ static this() {
     App
     .name("umlApp")
     .rootPath("/apps/uml")
-    .addRoute(Route("", HTTPMethod.GET, UMLIndexPageController))
-    .addRoute(Route("/", HTTPMethod.GET, UMLIndexPageController)));
+    .addRoute(Route("", HTTPMethod.GET, IndexPageController))
+    .addRoute(Route("/", HTTPMethod.GET, IndexPageController)));
 }
