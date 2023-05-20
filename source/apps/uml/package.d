@@ -24,11 +24,11 @@ public {
   import apps.uml.views;
 }
 
-DApp umlApp;
 static this() {
-  umlApp = App
+  AppRegistry.register("apps.uml",  
+    App
     .name("umlApp")
     .rootPath("/apps/uml")
     .addRoute(Route("", HTTPMethod.GET, UMLIndexPageController))
-    .addRoute(Route("/", HTTPMethod.GET, UMLIndexPageController));
+    .addRoute(Route("/", HTTPMethod.GET, UMLIndexPageController)));
 }
