@@ -3,7 +3,7 @@ module apps.uml.controllers.pages.index;
 import apps.uml;
 @safe:
 
-class DIndexPageController : DAPPPageController {
+class DIndexPageController : DPageController {
   mixin(ControllerThis!("IndexPageController"));
 
   override void initialize(Json configSettings = Json(null)) {

@@ -3,7 +3,7 @@ module apps.uml.controllers.pages.error;
 import apps.uml;
 @safe:
 
-class DUMLErrorPageController : DAPPPageController {
+class DUMLErrorPageController : DPageController {
   mixin(ControllerThis!("UMLErrorPageController"));
 
   override void initialize(Json configSettings = Json(null)) {
