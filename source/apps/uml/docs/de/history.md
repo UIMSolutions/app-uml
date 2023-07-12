@@ -1,0 +1,23 @@
+Die erste Version von UML entstand in den 1990er Jahren als Reaktion auf zahlreiche Vorschläge für Modellierungssprachen und -Methoden, welche die zu dieser Zeit aufkommende objektorientierte Softwareentwicklung unterstützen sollten. Die erste Folge von Sprachversionen, auch bekannt unter dem Namen UML 1.x, wurde 2005 durch eine grundlegend überarbeitete Version, oft als UML2 bezeichnet, abgelöst.
+
+Von den Anfängen zur Unified Modeling Language 1.x
+
+Historie der objektorientierten Methoden und Notationen
+Die Väter von UML, insbesondere Grady Booch, Ivar Jacobson und James Rumbaugh, auch „Die drei Amigos“ genannt, waren in den 1990er-Jahren bekannte Vertreter der objektorientierten Programmierung. Sie hatten alle bereits ihre eigenen Modellierungssprachen entwickelt. Als sie zusammen beim Unternehmen Rational Software beschäftigt waren, entstand die Idee, die verschiedenen Notationssysteme strukturiert zusammenzuführen. Eine Vielzahl von unterschiedlichen Modellierungssprachen hatte direkten oder indirekten Einfluss auf die Konzeption von UML, darunter OOSE, RDD, OMT, OBA, OODA, SOMA, MOSES und OPEN/OML.
+
+Als Resultat dieser Bemühungen entstand die UML. Die Standardisierung, Pflege und Weiterentwicklung der Sprache wurde an die OMG übergeben, die die Sprache am 19. November 1997 als Standard akzeptierte.
+
+Entstehungsgeschichte der Unified Modeling Language 2
+Im August 1999 stieß die OMG die Entwicklung von UML2 an, indem sie einen entsprechenden Request for Information (RFI) publizierte.
+
+Ein Jahr später, im September 2000, bat die OMG ihre Mitglieder und weitere interessierte Kreise um Vorschläge für UML2. Gemäß der neu für UML2 definierten Architektur publizierte die OMG drei Requests for Proposals (RFP): einen UML 2.0 Infrastructure RFP, einen UML 2.0 Superstructure RFP und einen UML 2.0 OCL RFP. Wer Vorschläge einreichen wollte, hatte dazu ungefähr ein weiteres Jahr Zeit.
+
+In einer ersten Runde reichten verschiedene Gruppen und Einzelpersonen Entwürfe ein. Mitte 2002 lagen von diesen Konsortien mehrmals überarbeitete und konsolidierte Antworten auf einzelne Request for Proposals vor. Erst im Oktober 2002 konnten dann beim Treffen der zuständigen Arbeitsgruppe in Helsinki alle Vorschläge für die UML 2.0 Infrastructure und die UML 2.0 Superstructure präsentiert werden. Einen Termin für eine weitere überarbeitete Version der Vorschläge legte die Arbeitsgruppe auf Anfang Januar 2003 fest. Die Hauptschwierigkeit bestand nun darin, die unterschiedlichen Entwürfe zu einer Spezifikation zu verschmelzen. Einerseits wurde Kritik laut, dass sich die unterschiedlichen Philosophien in den eingereichten Vorschlägen nur schwerlich würden bereinigen lassen, andererseits reichte im Januar 2003 ein neues Konsortium unter dem Namen 4M einen Vorschlag (UML4MDA) ein, der die Differenzen zwischen den bisherigen Spezifikationen zu überbrücken versuchte.
+
+Im März 2003 empfahl die zuständige Arbeitsgruppe die Vorschläge des Konsortiums U2 für die UML 2.0 Infrastructure und für die UML 2.0 OCL zur Freigabe, im Mai dann auch für die UML 2.0 Superstructure des gleichen Konsortiums, so dass ab Juni 2003 drei Finalization Task Forces der OMG die Arbeit aufnehmen konnten, um die Teilspezifikationen abzuschließen. Die Task Forces konnten ihre Arbeit jedoch nicht wie geplant bis zum April 2004 abschließen und gründeten deshalb eine zweite Finalization Task Force, die die verbleibenden Probleme bis zum September 2004 lösen sollte.
+
+Im September 2004 konnten schließlich alle Finalization Task Forces ihre Arbeit beenden. Für die UML 2.0 OCL[4] und die UML 2.0 Infrastructure[5] lagen damit endgültig abgenommene Dokumente (Final Adopted Specification) vor. Nur bei der UML 2.0 Superstructure schien sich dieser letzte Schritt noch etwas zu verzögern: im März 2005 bot der OMG-Webauftritt weiterhin nur ein temporäres Dokument mit der informellen Bezeichnung UML 2.0 Superstructure FTF convenience document zum Herunterladen an.
+
+Am 21. Oktober 2008 wurde die Beta 1 von UML Version 2.2 durch die OMG veröffentlicht, die dann im Februar 2009 in der finalen Version vorlag.[6] Neu hinzugekommen ist in der Version 2.2 das Profildiagramm, um eigendefinierte Stereotyp-Sammlungen strukturieren zu können.
+
+Im Mai 2010 wurde UML 2.3 veröffentlicht. Diese Version enthielt vor allem Fehlerkorrekturen am Metamodell und Schärfungen der Semantik von Modellelementen im Spezifikationsdokument der UML. Die Version 2.5 wurde im Juni 2015 veröffentlicht. Die derzeit aktuelle Version 2.5.1 wurde im Dezember 2017 veröffentlicht.
