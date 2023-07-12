@@ -26,9 +26,11 @@ public {
 
 static this() {
   AppRegistry.register("apps.uml",  
-    App
-    .name("umlApp")
-    .rootPath("/apps/uml")
-    .addRoute(Route("", HTTPMethod.GET, IndexPageController))
-    .addRoute(Route("/", HTTPMethod.GET, IndexPageController)));
+    App("umlApp", "/apps/uml")
+      .importTranslations()
+      .addRoutes(
+        Route("", HTTPMethod.GET, IndexPageController),
+        Route("/", HTTPMethod.GET, IndexPageController)
+      )
+    );
 }
